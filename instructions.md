@@ -1,4 +1,4 @@
-## Instrukcja przygotowania środowiska do warsztatów:
+## Instrukcja przygotowania środowiska do warsztatów
 
 1. Pobierz i zainstaluj środowisko Anacondy dla odpowiedniego systemu (wersja z python 3):
 https://www.anaconda.com/download/
@@ -16,9 +16,9 @@ https://docs.anaconda.com/anaconda/user-guide/getting-started
 ```python ./download_lang_resources.py```
 
 6. Pobierz dane z platformy Kaggle (wymaga rejestracji i zaakceptowania warunków serwisu):
-https://www.kaggle.com/snapcrack/all-the-news/downloads/articles1.csv/4
-https://www.kaggle.com/goweiting/ted-talks-transcript#ted_metadata_kaggle.csv
-https://www.kaggle.com/kemical/kickstarter-projects
+- https://www.kaggle.com/snapcrack/all-the-news/downloads/articles1.csv/4
+- https://www.kaggle.com/goweiting/ted-talks-transcript#ted_metadata_kaggle.csv
+- https://www.kaggle.com/kemical/kickstarter-projects
 
-7. Z konsoli Anacondy uruchom Jupyter Notebook i otwórz folder notebooks z repozytorium 
+7. Z konsoli Anacondy uruchom Jupyter Notebook i otwórz folder notebooks z repozytorium z interfejsu w przeglądarce
 ```jupyter notebook```
