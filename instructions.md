@@ -15,7 +15,7 @@ https://docs.anaconda.com/anaconda/user-guide/getting-started
 5. Uruchom skrypt do pobrania dodatkowych zasobów językowych potrzebnych podczas warsztatów (uwaga: jeden z modeli użyty w przykładzie ma ponad 900MB, można go pobrać opcjonalnie - należy odkomentować linijkę w skrypcie)
 ```python ./download_lang_resources.py```
 
-6. Pobierz dane z platformy Kaggle (wymaga rejestracji i zaakceptowania warunków serwisu):
+6. Pobierz dane z platformy Kaggle (wymaga rejestracji i zaakceptowania warunków serwisu) i zapisz je w folderze notebooks w repozytorium:
 - https://www.kaggle.com/snapcrack/all-the-news/downloads/articles1.csv/4
 - https://www.kaggle.com/goweiting/ted-talks-transcript#ted_metadata_kaggle.csv
 - https://www.kaggle.com/kemical/kickstarter-projects
