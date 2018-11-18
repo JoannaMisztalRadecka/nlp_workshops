@@ -14,4 +14,7 @@ https://docs.anaconda.com/anaconda/user-guide/getting-started
 
 5. Pobierz dane z platformy Kaggle (wymaga rejestracji i zaakceptowania warunków serwisu):
 https://www.kaggle.com/snapcrack/all-the-news/downloads/articles1.csv/4
+https://www.kaggle.com/goweiting/ted-talks-transcript#ted_metadata_kaggle.csv
+https://www.kaggle.com/kemical/kickstarter-projects
+
 

@@ -4,3 +4,5 @@ W przetwarzaniu języka naturalnego bardzo ważne jest odpowiednie przygotowanie
 
 Zajęcia będą obejmowały zagadnienia takie jak oczyszczanie i przygotowanie tekstu, wizualizację i modelowanie tematów oraz podstawy semantyki dystrybucyjnej (text embeddings). Tematy będą omówione na praktycznych przykładach z użyciem narzędzi i bibliotek NLP w języku Python.
 
+Do aktywnego uczestnictwa w warsztatach potrzebne będzie wcześniejsze przygotowanie środowiska zgodne z instrukcją:
+https://github.com/JoannaMisztalRadecka/nlp_workshops/blob/master/instructions.md
