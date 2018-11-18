@@ -6,15 +6,19 @@ https://www.anaconda.com/download/
 2. Uruchom środowisko Anacondy - dla Windows otwórz konsolę Anaconda Prompt
 https://docs.anaconda.com/anaconda/user-guide/getting-started
 
-3. Zainstaluj dodatkowe pakiety używane podczas warsztatów:
+3. Pobierz repozytorium z materiałami do ćwiczeń:
+``` git clone https://github.com/JoannaMisztalRadecka/nlp_workshops.git ```
+
+4. Zainstaluj dodatkowe pakiety używane podczas warsztatów:
 ```pip install -r requirements.txt```
 
-4. Uruchom skrypt do pobrania dodatkowych zasobów językowych potrzebnych podczas warsztatów (uwaga: jeden z modeli użyty w przykładzie ma ponad 900MB, można go pobrać opcjonalnie - należy odkomentować linijkę w skrypcie)
+5. Uruchom skrypt do pobrania dodatkowych zasobów językowych potrzebnych podczas warsztatów (uwaga: jeden z modeli użyty w przykładzie ma ponad 900MB, można go pobrać opcjonalnie - należy odkomentować linijkę w skrypcie)
 ```python ./download_lang_resources.py```
 
-5. Pobierz dane z platformy Kaggle (wymaga rejestracji i zaakceptowania warunków serwisu):
+6. Pobierz dane z platformy Kaggle (wymaga rejestracji i zaakceptowania warunków serwisu):
 https://www.kaggle.com/snapcrack/all-the-news/downloads/articles1.csv/4
 https://www.kaggle.com/goweiting/ted-talks-transcript#ted_metadata_kaggle.csv
 https://www.kaggle.com/kemical/kickstarter-projects
 
-
+7. Z konsoli Anacondy uruchom Jupyter Notebook i otwórz folder notebooks z repozytorium 
+```jupyter notebook```
